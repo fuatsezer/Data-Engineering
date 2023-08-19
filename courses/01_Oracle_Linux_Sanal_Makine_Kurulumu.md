@@ -1,1 +1,1 @@
-Sanal Makine Kurulumu (Oracle Linux)
+# Sanal Makine Kurulumu (Oracle Linux)
