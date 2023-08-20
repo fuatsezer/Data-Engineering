@@ -33,6 +33,8 @@ Oracle sanal makinesini başlatın ve kurulum adımlarını takip edin
 ![image](https://github.com/fuatsezer/Data-Engineering/assets/63423939/0200f3c9-58c6-4ff0-808a-e2a53310ad0b)
 ![image](https://github.com/fuatsezer/Data-Engineering/assets/63423939/414b96ae-932d-4e2a-aefd-55808c888586)
 ![image](https://github.com/fuatsezer/Data-Engineering/assets/63423939/d1d06f74-7246-4e5d-9c41-af0ace57a762)
+![image](https://github.com/fuatsezer/Data-Engineering/assets/63423939/0fd7ee15-fc8c-4013-8fe0-678761208366)
+
 
 
 
