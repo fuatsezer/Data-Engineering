@@ -1,6 +1,7 @@
 # Sanal Makine Kurulumu (Oracle Linux)
 ## 1.Adım: Oracle Linux ISO'yu indirme
 [http://mirror.aarnet.edu.au/pub/oraclelinux/OL8/u0/x86_64/ ](http://ftp.linux.org.uk/pub/distributions/enterprise/OL9/u1/x86_64/)adresine gidin ve OracleLinux-R9-U1-x86_64-dvd.iso  dosyasını indirin.
+Yada https://drive.google.com/file/d/1ZW1ujtvvUXLAOjhKcjcQ4Q8vcCnpbxfK/view?usp=sharing adresinden indirin
 ![image](https://github.com/fuatsezer/Data-Engineering/assets/63423939/a3c158c3-f2b2-4d4d-b4cd-4d7f74ed6c22)
 
 
